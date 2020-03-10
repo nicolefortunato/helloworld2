@@ -1,0 +1,1 @@
+d = {"I": "Eu", "have": "tenho", "three": "três", "children": "filhos"}
